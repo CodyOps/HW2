@@ -1,6 +1,6 @@
 Homework 2 Project
 
-In this project the task was to designed a responsive website that render well on a wide variety of device and window screen sizes. Bootstrap was used to develop our portfolio site
+In this project the task was to designed a responsive website that renders well on a wide variety of device and window screen sizes. Bootstrap was used to develop our portfolio site
 with a portfolio site with navbars, responsive layout and responsive images. The sites were designed using bootstrap's grid system using containers, rows and columns. An
 HTML validation service was used to ensure that each of the pages has valid HTML.
 

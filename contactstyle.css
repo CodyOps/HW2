@@ -1,0 +1,9 @@
+body {
+  background-image: url("https://images.unsplash.com/photo-1469050624972-f03b8678e363?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+main {
+  margin: 5%;
+}

@@ -16,4 +16,10 @@ main {
 
 .img-thumbnail {
   margin: 1%;
+  border: 5px solid darkcyan;
+}
+
+h1 {
+  font-size: 48px;
+  color: darkcyan;
 }

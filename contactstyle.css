@@ -1,16 +1,20 @@
+/*Added background image covering entire page*/
 body {
   background-image: url("https://images.unsplash.com/photo-1428908728789-d2de25dbd4e2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60");
   background-size: cover;
 }
 
+/*Added some margin to main content for better visuals*/
 main {
   margin: 5%;
 }
 
+/*Added some color to the Contact title*/
 h1 {
   color: darkcyan;
 }
 
+/*Increased the size of the Name, Email, and Message sub headers*/
 label {
   font-size: 18px;
 }

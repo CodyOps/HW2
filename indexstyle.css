@@ -1,18 +1,22 @@
+/*Made square size for imageProfile id and added a border*/
 #imageProfile {
   width: 350px;
   height: 350px;
-
   border: 5px solid darkcyan;
 }
 
+/*Added some padding to container with bootstrap element and floated left*/
 .container {
   padding: 3%;
+  float: left;
 }
 
+/*Made the About Me title to a new color*/
 h1 {
   color: darkcyan;
 }
 
+/*Added a background image and no-repeat due to background size and cover to cover whole page size*/
 body {
   background-image: url("https://images.unsplash.com/photo-1428908728789-d2de25dbd4e2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60");
   background-repeat: no-repeat;

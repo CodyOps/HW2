@@ -1,26 +1,27 @@
-#image1 {
-  width: 350px;
-  height: 350px;
-}
-
+/*Added a background image with no repeat and cover for entire page*/
 body {
   background-image: url("https://images.unsplash.com/photo-1428908728789-d2de25dbd4e2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60");
   background-repeat: no-repeat;
   background-size: cover;
 }
 
+/*Added some padding and margins to give images better spacing*/
 main {
   padding: 3%;
   margin: 3%;
 }
 
+/*Used class for all images to give margin, border, border color, no image padding and set size*/
 .img-thumbnail {
   margin: 0.75%;
   border: 4px solid darkcyan;
   outline: none;
   padding: 0px !important;
+  width: 350px;
+  height: 350px;
 }
 
+/*Made Portfolio title larger and with color*/
 h1 {
   font-size: 48px;
   color: darkcyan;

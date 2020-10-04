@@ -12,5 +12,8 @@ The portfolio page is a page dedicated to some photos of myself to help enrich t
 
 Welcome to my portfolio site!
 
-![Image]
-(Assets/Images/Screen Shot 2020-10-04 at 3.46.43 PM.png)
+<img width="1426" alt="Screen Shot 2020-10-04 at 3 58 27 PM" src="https://user-images.githubusercontent.com/70075378/95028039-8568e700-065a-11eb-9c6c-40e915198364.png">
+
+<img width="1263" alt="Screen Shot 2020-10-04 at 3 09 59 PM" src="https://user-images.githubusercontent.com/70075378/95028009-3753e380-065a-11eb-8fe4-8719a1fc0055.png">
+
+<img width="1421" alt="Screen Shot 2020-10-04 at 3 58 42 PM" src="https://user-images.githubusercontent.com/70075378/95028052-b8ab7600-065a-11eb-85b2-fbfde42285f9.png">

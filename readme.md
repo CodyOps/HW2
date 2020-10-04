@@ -11,3 +11,6 @@ The contact page is a page where users can contact me by providing their name, e
 The portfolio page is a page dedicated to some photos of myself to help enrich the feel of the website.
 
 Welcome to my portfolio site!
+
+![Image]
+(Assets/Images/Screen Shot 2020-10-04 at 3.46.43 PM.png)

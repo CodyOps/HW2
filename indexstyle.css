@@ -24,9 +24,15 @@ body {
 }
 
 footer {
-  float: none
   bottom: 0;
-  margin: 2%;
+  margin-top: 50%;
+  margin-left: 3%;
   width: 100%;
-  height: 50px;
+  display: flex;
+}
+
+@media only screen and (max-width: 600px) {
+  footer {
+    flex-direction: column;
+  }
 }
